@@ -3,5 +3,5 @@ torchvision==0.2.0
 numpy
 pillow
 tensorboardX
-opencv-python
+opencv-python==4.7.0.68
 plyfile
